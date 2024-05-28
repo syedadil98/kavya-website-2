@@ -1,0 +1,288 @@
+.image {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: -1;
+}
+
+.homec-container {
+    position: relative;
+    min-height: 800px;
+    min-width: 100%;
+    height: 100%;
+    width: 100%;
+    overflow: scroll;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 50px;
+    background: 
+    linear-gradient(to bottom, #333333 10%, #E35F5F 10%, #E35F5F 90%, #333333 90%), /* Top and bottom */
+    linear-gradient(to right, #333333 10%, #E35F5F 10%, #E35F5F 90%, #333333 90%); /* Left and right */
+    z-index: -1;
+}
+
+.homec-container::before,
+.homec-container::after {
+    content: '';
+    position: absolute;
+    z-index: -1;
+    left: 0;
+    right: 0;
+    height: 10%;
+    background: #333333;
+}
+
+.homec-container::before {
+    top: 3%;
+    border-radius: 50% 100% 0 0;
+    background-color: #E35F5F;
+}
+
+.homec-container::after {
+    bottom: 0;
+    border-radius: 0 0 100% 0;
+    background-color: #E35F5F;
+}
+
+.homec-container::before,
+.homec-container::after {
+    z-index: -1;
+}
+
+.homec-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+ 
+    
+}
+
+.homec-container::before,
+.homec-container::after {
+    z-index: -1;
+}
+
+
+
+.homecs {
+    padding: 4rem;
+    background: linear-gradient(90deg, rgb(28, 27, 27) 0%, rgb(26, 23, 23) 100%);
+    position: relative;
+}
+
+.homec__title {
+    color: #fff;
+    text-align: center;
+}
+
+.homec > h2 {
+    color: #FFF;
+    text-align: center; 
+    margin-bottom: 30px;
+}
+
+.homec__container {
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+    max-width: 1240px;
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.homec__items {
+    display: flex;
+    overflow-x: auto;
+    padding: 1rem; /* Add padding to prevent the arrows from overlapping with cards */
+}
+
+.homec__arrow {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 2rem;
+    color: #fff;
+    cursor: pointer;
+}
+
+.homec__arrow-left {
+    position: absolute;
+    top: 50%; /* Position the arrow vertically at the center */
+    left: 100px; /* Adjust the left distance as needed */
+    transform: translateY(-50%);
+    font-size: 2rem;
+    color: #fff;
+    cursor: pointer;
+}
+
+.homec__arrow-right {
+    position: absolute;
+    top: 50%; /* Position the arrow vertically at the center */
+    right: 100px; /* Adjust the right distance as needed */
+    transform: translateY(-50%);
+    font-size: 2rem;
+    color: #fff;
+    cursor: pointer;
+}
+
+.homec__items-container {
+    overflow-x: auto; /* Enable horizontal scrolling */
+    max-width: 100%; /* Ensure the container takes the full width */
+}
+
+.homec__item {
+    flex: 0 0 auto; /* Prevent cards from stretching */
+    margin: 0 0.5rem; /* Adjust margin between cards */
+    width: 600px; /* Set the width of each card */
+    height: 400px; /* Set the height of each card */
+    border-radius: 25px; /* Add rounded corners */
+}
+
+.homec__item__link {
+    width: 100%;
+}
+
+.homec__item__pic-wrap {
+    position: relative;
+    width: 100%;
+    padding-top: 67%;
+    overflow: hidden;
+    border-radius: 15px; /* Add rounded corners */
+}
+
+.fade-img {
+    animation-name: fade-img;
+    animation-duration: 2s;
+}
+
+.homec__item__pic-wrap::after {
+    content: attr(data-category);
+    position: absolute;
+    bottom: 0;
+    margin-left: 10px;
+    padding: 6px 8px;
+    max-width: calc((100%) - 60px);
+    font-size: 12px;
+    font-weight: 700;
+    color: #fff;
+    background-color: #1f98f4;
+    box-sizing: border-box;
+}
+
+.homec__item__img {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    height: 100%;
+    max-height: 100%;
+    object-fit: cover;
+    transition: all 0.2s linear;
+}
+
+.homec__item__img:hover {
+    transform: scale(1.1);
+}
+
+.homec__item__info {
+    padding: 20px 30px 30px;
+}
+
+.homec__item__text {
+    color: #252e48;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+@media only screen and (max-width: 1024px) {
+    .homec__item {
+        margin-bottom: 2rem;
+    }
+}
+
+.homec-container > h1 {
+    color: #FFF;
+    font-size: 48px;
+    text-align: center; 
+   padding-left: 7.5%;
+   padding-right: 7.5%;
+}
+
+.homec-container > h2 {
+    color: #FFF;
+    font-size: 60px;
+    text-align: left; 
+}
+
+.homec-container > p {
+    color: #FFF;
+    font-size: 22px;
+    text-align: left; 
+    margin: 0 auto; 
+    margin-right: 30%;
+}
+
+.homec-btns {
+    margin-top: 20px; /* Adjust the distance from the top as needed */
+    margin-left: 20px; /* Adjust the distance from the left as needed */
+}
+.homec-container img {
+    width: 650px; /* Set width to 500px */
+    height: 500px; /* Set height to 500px */
+    border-radius: 10%; /* Apply rounded borders */
+    float: left; /* Align the image to the left */
+    margin-top: 5%;
+    margin-right: 0px; /* Add margin for spacing */
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2); /* Add slight shadow */
+    margin-left: 5%;
+  }
+  .homec-container img-back {
+    width: 650px; /* Set width to 500px */
+    height: 500px; /* Set height to 500px */
+    border-radius: 10%; /* Apply rounded borders */
+    float: left; /* Align the image to the left */
+    margin-top: 25px;
+    margin-right: 0px; /* Add margin for spacing */
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2); /* Add slight shadow */
+    margin-left: 4%;
+  }
+
+  .text-wrapper {
+    /* Styles for the text wrapper */
+    width: 100%;
+    overflow: scroll;
+
+  }
+
+  .text-wrapper > h1 {
+    color: #FFF;
+    font-size: 3rem;
+    text-align: left; 
+    float: center;
+    margin-top: 100px;
+
+}
+
+.text-wrapper > h2 {
+    color: #FFF;
+    font-size: 3rem;
+    text-align: left; 
+}
+
+.text-wrapper > p {
+    color: #FFF;
+    font-size: 1.75rem;
+    text-align: left; 
+    float: center;
+    margin: 0 auto; 
+    margin-right: 10%;
+    padding-top: 4%;
+  
+}
