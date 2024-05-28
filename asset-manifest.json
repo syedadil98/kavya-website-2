@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/kavya-website-2/static/css/main.174ca7a0.css",
-    "main.js": "/kavya-website-2/static/js/main.97ae697f.js",
+    "main.css": "/kavya-website-2/static/css/main.c00a4459.css",
+    "main.js": "/kavya-website-2/static/js/main.c9ba4b78.js",
     "static/media/fr8relay.jpeg": "/kavya-website-2/static/media/fr8relay.1cfb499cc506a9451a5d.jpeg",
     "static/media/hero-section.jpeg": "/kavya-website-2/static/media/hero-section.994a36403b24f9757568.jpeg",
     "static/media/reduce.jpeg": "/kavya-website-2/static/media/reduce.4fed01166a82958fd817.jpeg",
@@ -47,14 +47,22 @@
     "static/media/Group 343.png": "/kavya-website-2/static/media/Group 343.88c942b8dcc3594896ca.png",
     "static/media/News6-2.png": "/kavya-website-2/static/media/News6-2.bc5912c53bc13566360b.png",
     "static/media/fr8relay logo.png": "/kavya-website-2/static/media/fr8relay logo.111b8a6b252cd93cb180.png",
+    "static/media/Google_Apps_Script.svg.png": "/kavya-website-2/static/media/Google_Apps_Script.svg.491c9efb6f09de1e9afb.png",
     "static/media/AayushT.jpg": "/kavya-website-2/static/media/AayushT.ac391aae887e40712209.jpg",
+    "static/media/react-native-1.svg": "/kavya-website-2/static/media/react-native-1.55360266b3781dae00a5a77c8916f82d.svg",
+    "static/media/mysql-logo.svg": "/kavya-website-2/static/media/mysql-logo.f586030ae346497d3d321e6203efeead.svg",
+    "static/media/aws-2.svg": "/kavya-website-2/static/media/aws-2.1baaa078f947505c36dc8ee7595f91da.svg",
+    "static/media/kafka.svg": "/kavya-website-2/static/media/kafka.31b4a8cc6be07b6c2a85a57f036d0434.svg",
+    "static/media/google-cloud-1.svg": "/kavya-website-2/static/media/google-cloud-1.e929444adcd04c02cd95f8e693a92db4.svg",
+    "static/media/angular-3.svg": "/kavya-website-2/static/media/angular-3.b91d4b54352bec3ad29d2ffd9d62e746.svg",
     "static/media/Connc logo white.svg": "/kavya-website-2/static/media/Connc logo white.247dd165a016794371f16a2922c77c26.svg",
     "index.html": "/kavya-website-2/index.html",
-    "main.174ca7a0.css.map": "/kavya-website-2/static/css/main.174ca7a0.css.map",
-    "main.97ae697f.js.map": "/kavya-website-2/static/js/main.97ae697f.js.map"
+    "static/media/javascript-1.svg": "/kavya-website-2/static/media/javascript-1.b879f838faf1cb951d1c2230fd933a39.svg",
+    "main.c00a4459.css.map": "/kavya-website-2/static/css/main.c00a4459.css.map",
+    "main.c9ba4b78.js.map": "/kavya-website-2/static/js/main.c9ba4b78.js.map"
   },
   "entrypoints": [
-    "static/css/main.174ca7a0.css",
-    "static/js/main.97ae697f.js"
+    "static/css/main.c00a4459.css",
+    "static/js/main.c9ba4b78.js"
   ]
 }
