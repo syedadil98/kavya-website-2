@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/kavya-website-2/static/css/main.c00a4459.css",
-    "main.js": "/kavya-website-2/static/js/main.c9ba4b78.js",
+    "main.css": "/kavya-website-2/static/css/main.66399062.css",
+    "main.js": "/kavya-website-2/static/js/main.de571425.js",
     "static/media/fr8relay.jpeg": "/kavya-website-2/static/media/fr8relay.1cfb499cc506a9451a5d.jpeg",
     "static/media/hero-section.jpeg": "/kavya-website-2/static/media/hero-section.994a36403b24f9757568.jpeg",
     "static/media/reduce.jpeg": "/kavya-website-2/static/media/reduce.4fed01166a82958fd817.jpeg",
@@ -43,7 +43,7 @@
     "static/media/embotech-logo.png": "/kavya-website-2/static/media/embotech-logo.9aacd03bf6f3f181df92.png",
     "static/media/img-8.jpg": "/kavya-website-2/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
     "static/media/News4-4.png": "/kavya-website-2/static/media/News4-4.93c4dba79b112e3fa0bb.png",
-    "static/media/Poppins-Regular.ttf": "/kavya-website-2/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Roboto-Regular.ttf": "/kavya-website-2/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
     "static/media/Group 343.png": "/kavya-website-2/static/media/Group 343.88c942b8dcc3594896ca.png",
     "static/media/News6-2.png": "/kavya-website-2/static/media/News6-2.bc5912c53bc13566360b.png",
     "static/media/fr8relay logo.png": "/kavya-website-2/static/media/fr8relay logo.111b8a6b252cd93cb180.png",
@@ -58,11 +58,11 @@
     "static/media/Connc logo white.svg": "/kavya-website-2/static/media/Connc logo white.247dd165a016794371f16a2922c77c26.svg",
     "index.html": "/kavya-website-2/index.html",
     "static/media/javascript-1.svg": "/kavya-website-2/static/media/javascript-1.b879f838faf1cb951d1c2230fd933a39.svg",
-    "main.c00a4459.css.map": "/kavya-website-2/static/css/main.c00a4459.css.map",
-    "main.c9ba4b78.js.map": "/kavya-website-2/static/js/main.c9ba4b78.js.map"
+    "main.66399062.css.map": "/kavya-website-2/static/css/main.66399062.css.map",
+    "main.de571425.js.map": "/kavya-website-2/static/js/main.de571425.js.map"
   },
   "entrypoints": [
-    "static/css/main.c00a4459.css",
-    "static/js/main.c9ba4b78.js"
+    "static/css/main.66399062.css",
+    "static/js/main.de571425.js"
   ]
 }
