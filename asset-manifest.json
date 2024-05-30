@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kavya-website-2/static/css/main.7072b772.css",
-    "main.js": "/kavya-website-2/static/js/main.0f266dfd.js",
+    "main.js": "/kavya-website-2/static/js/main.1d7ee937.js",
     "static/media/fr8relay.jpeg": "/kavya-website-2/static/media/fr8relay.1cfb499cc506a9451a5d.jpeg",
     "static/media/hero-section.jpeg": "/kavya-website-2/static/media/hero-section.994a36403b24f9757568.jpeg",
     "static/media/reduce.jpeg": "/kavya-website-2/static/media/reduce.4fed01166a82958fd817.jpeg",
@@ -59,10 +59,10 @@
     "index.html": "/kavya-website-2/index.html",
     "static/media/javascript-1.svg": "/kavya-website-2/static/media/javascript-1.b879f838faf1cb951d1c2230fd933a39.svg",
     "main.7072b772.css.map": "/kavya-website-2/static/css/main.7072b772.css.map",
-    "main.0f266dfd.js.map": "/kavya-website-2/static/js/main.0f266dfd.js.map"
+    "main.1d7ee937.js.map": "/kavya-website-2/static/js/main.1d7ee937.js.map"
   },
   "entrypoints": [
     "static/css/main.7072b772.css",
-    "static/js/main.0f266dfd.js"
+    "static/js/main.1d7ee937.js"
   ]
 }
