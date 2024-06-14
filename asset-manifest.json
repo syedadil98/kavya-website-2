@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/kavya-website-2/static/css/main.7072b772.css",
-    "main.js": "/kavya-website-2/static/js/main.1d7ee937.js",
+    "main.css": "/kavya-website-2/static/css/main.8d137c1b.css",
+    "main.js": "/kavya-website-2/static/js/main.462365ed.js",
     "static/media/fr8relay.jpeg": "/kavya-website-2/static/media/fr8relay.1cfb499cc506a9451a5d.jpeg",
     "static/media/hero-section.jpeg": "/kavya-website-2/static/media/hero-section.994a36403b24f9757568.jpeg",
     "static/media/reduce.jpeg": "/kavya-website-2/static/media/reduce.4fed01166a82958fd817.jpeg",
+    "static/media/relay-movie-org2.mov": "/kavya-website-2/static/media/relay-movie-org2.1fbdbedf0426a7e8f994.mov",
     "static/media/relayB copy.jpeg": "/kavya-website-2/static/media/relayB copy.97c881c8e07c649091a6.jpeg",
     "static/media/fr8relay-home.jpeg": "/kavya-website-2/static/media/fr8relay-home.73e550be313863f8ba49.jpeg",
     "static/media/embotech.jpeg": "/kavya-website-2/static/media/embotech.ef58575c51f8ca995851.jpeg",
@@ -15,7 +16,6 @@
     "static/media/team1.jpeg": "/kavya-website-2/static/media/team1.e05095d61795c47e6150.jpeg",
     "static/media/travel-delay.jpeg": "/kavya-website-2/static/media/travel-delay.d49cb973b85a48a42248.jpeg",
     "static/media/team3.jpeg": "/kavya-website-2/static/media/team3.b4feb4f56807e65840b2.jpeg",
-    "static/media/AdobeStock_647045753_Video_HD_Preview.mov": "/kavya-website-2/static/media/AdobeStock_647045753_Video_HD_Preview.cf40bb7b4ba2bc4ccd6d.mov",
     "static/media/Team-staffing.jpeg": "/kavya-website-2/static/media/Team-staffing.bfe67ccd911ad81f561f.jpeg",
     "static/media/Deme2.JPG": "/kavya-website-2/static/media/Deme2.ec0cf48689f7acf675d3.JPG",
     "static/media/About Us.jpeg": "/kavya-website-2/static/media/About Us.ddbd674ab2d626629bdf.jpeg",
@@ -34,8 +34,11 @@
     "static/media/homec-img.jpg": "/kavya-website-2/static/media/homec-img.9ca8c177e77f7ce0abf1.jpg",
     "static/media/attract.jpeg": "/kavya-website-2/static/media/attract.02095b6f6b2dcb8a2aab.jpeg",
     "static/media/News8.png": "/kavya-website-2/static/media/News8.22ec69a42ec0a1cef702.png",
+    "static/media/2 Est of State.png": "/kavya-website-2/static/media/2 Est of State.b9c5895fe54bce5bcf5b.png",
+    "static/media/1 Dev of Algo.png": "/kavya-website-2/static/media/1 Dev of Algo.ba91ae2f5173cb7f832b.png",
     "static/media/Govt-hero.jpeg": "/kavya-website-2/static/media/Govt-hero.6ed7cdfe7c49c4f245e8.jpeg",
     "static/media/News3.png": "/kavya-website-2/static/media/News3.33d2af1bd72edccd00c0.png",
+    "static/media/3 Truck Fleet.png": "/kavya-website-2/static/media/3 Truck Fleet.af92acd191cb8ca4fe05.png",
     "static/media/News2.png": "/kavya-website-2/static/media/News2.14df95b270fbbd0945cf.png",
     "static/media/img-1.jpg": "/kavya-website-2/static/media/img-1.53f4843759ebec256cb9.jpg",
     "static/media/ML-hero.png": "/kavya-website-2/static/media/ML-hero.5de1441423208a87cc6c.png",
@@ -58,11 +61,11 @@
     "static/media/Connc logo white.svg": "/kavya-website-2/static/media/Connc logo white.247dd165a016794371f16a2922c77c26.svg",
     "index.html": "/kavya-website-2/index.html",
     "static/media/javascript-1.svg": "/kavya-website-2/static/media/javascript-1.b879f838faf1cb951d1c2230fd933a39.svg",
-    "main.7072b772.css.map": "/kavya-website-2/static/css/main.7072b772.css.map",
-    "main.1d7ee937.js.map": "/kavya-website-2/static/js/main.1d7ee937.js.map"
+    "main.8d137c1b.css.map": "/kavya-website-2/static/css/main.8d137c1b.css.map",
+    "main.462365ed.js.map": "/kavya-website-2/static/js/main.462365ed.js.map"
   },
   "entrypoints": [
-    "static/css/main.7072b772.css",
-    "static/js/main.1d7ee937.js"
+    "static/css/main.8d137c1b.css",
+    "static/js/main.462365ed.js"
   ]
 }
